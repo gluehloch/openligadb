@@ -1,0 +1,6 @@
+# IntelliJ
+.idea
+betoffice-openliga-json.iml
+
+# Maven
+target
